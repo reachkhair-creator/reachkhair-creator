@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Syed Abdul Hairu 👋 | PLM Automation & Teamcenter Admin
+# Hi, I'm Syed Khair 👋 | Teamcenter Architect & PLM Automation Engineer
 
-**I build tools that make Teamcenter faster, cleaner, and audit-ready for GCC manufacturing.**
+**I architect and automate PLM systems that eliminate BOM errors and connect engineering to enterprise IT — for HVAC and industrial manufacturers across the GCC.**
 
 </div>
 
@@ -10,9 +10,9 @@
 
 ### About Me
 
-- 🔧 19+ years in Teamcenter Administration & PLM Architecture across UAE/GCC manufacturing
-- ⚙️ Built Python/ITK automation tools that cut manual BOM validation time and reduce data errors
-- 🌍 Specialist in BMIDE customization, ESG/Circular BOM traceability, and Active Workspace performance tuning
+- 🔧 20+ years in HVAC product engineering & enterprise PLM (Siemens Teamcenter + PTC Windchill)
+- ⚙️ Architected Teamcenter end-to-end — BMIDE data models, Active Workspace, CAD-to-ERP integration — eliminating manual BOM re-entry and procurement mismatches
+- 🌍 Led 10+ design engineers across multi-site HVAC product development (concept → ASHRAE/AHRI/UL certification) using structured stage-gate PLM workflows
 
 ---
 
@@ -22,7 +22,7 @@
 ![Teamcenter](https://img.shields.io/badge/Teamcenter-2412%20%2F%2013.3-0066B3?style=flat-square)
 ![BMIDE](https://img.shields.io/badge/BMIDE-Data%20Model-0066B3?style=flat-square)
 ![Active Workspace](https://img.shields.io/badge/Active%20Workspace-Admin-0066B3?style=flat-square)
-![Windchill](https://img.shields.io/badge/PTC%20Windchill-Familiar-0066B3?style=flat-square)
+![PTC Windchill](https://img.shields.io/badge/PTC%20Windchill-PLM%20Admin-0066B3?style=flat-square)
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,20 +38,25 @@
 
 ### What I Build
 
-**🔹 TC BOM Validator**
-Python script that scans Teamcenter BOM structures for duplicate/conflicting line items before release.
+**🔹 [TC BOM Validator](https://github.com/reachkhair-creator/tc-bom-validator)**
+Python tool that scans Teamcenter BOM structures for duplicate or conflicting line items before release.
 `Python` `ITK` `Teamcenter SOA`
-→ Impact: reduced manual BOM review time per release cycle
+→ Built on the same standardization work that eliminated revision errors delaying production handoffs at SKM Air Conditioning
 
-**🔹 ESG Data Extraction Tool**
+**🔹 [ESG Traceability Query](https://github.com/reachkhair-creator/esg-traceability-query)**
 Query/extraction tool pulling material compliance data (REACH/RoHS) from Teamcenter for ESG and UAE Net Zero 2050 reporting.
 `Python` `SQL` `Teamcenter Query API`
-→ Impact: turned a multi-day manual compliance pull into a repeatable scripted report
+→ Turns a manual compliance pull into a repeatable scripted report
 
-**🔹 AW Performance Monitor**
-Lightweight script that logs Active Workspace load times across modules to flag performance regressions before users complain.
+**🔹 [AW Performance Monitor](https://github.com/reachkhair-creator/aw-performance-monitor)**
+Script that logs Active Workspace load times across modules to flag performance regressions before users report them.
 `Python` `Active Workspace` `Logging/Monitoring`
-→ Impact: gives admins early warning instead of reactive firefighting
+→ Built from hands-on AW administration experience across a multi-site engineering organization
+
+**🔹 [BMIDE Deployment Checklist](https://github.com/reachkhair-creator/bmide-deployment-checklist)**
+Field-tested checklist and templates for safe BMIDE deployments across dev → test → production.
+`BMIDE` `Process` `Teamcenter Admin`
+→ Based on 20+ years administering Teamcenter and Windchill data models for HVAC manufacturers
 
 ---
 
@@ -74,6 +79,6 @@ Currently: ESG Traceability automation in Teamcenter 2412
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-khair-plm/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:reachkhair@gmail.com)
 
-📍 Based in Sharjah, UAE — open to PLM Architect / Teamcenter Admin roles across UAE & GCC
+📍 Based in Sharjah, UAE — open to Teamcenter Architect / PLM Admin roles across UAE & GCC
 
 </div>
